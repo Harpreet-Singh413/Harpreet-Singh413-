@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Harpreet Singh
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Web+Applications;DSA+Enthusiast+%7C;Building+%C2%B7+Learning+%C2%B7+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Web+Applications;DSA+Enthusiast;Building+%C2%B7+Learning+%C2%B7+Growing)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harpreet-singh-318a26318)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://harpreet-singh413.github.io/Portfolio)
